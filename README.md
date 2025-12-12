@@ -80,7 +80,7 @@
 - **Multi-thread** [[*Live*]](https://vladmandic.github.io/human/demo/multithread/index.html) [[*Details*]](https://github.com/vladmandic/human/tree/main/demo/multithread): Runs each Human module in a separate web worker for highest possible performance  
 - **NextJS** [[*Live*]](https://vladmandic.github.io/human-next/out/index.html) [[*Details*]](https://github.com/vladmandic/human-next): Use Human with TypeScript, NextJS and ReactJS
 - **ElectronJS** [[*Details*]](https://github.com/vladmandic/human-electron): Use Human with TypeScript and ElectonJS to create standalone cross-platform apps
-- **3D Analysis with BabylonJS** [[*Live*]](https://vladmandic.github.io/human-motion/src/index.html) [[*Details*]](https://github.com/vladmandic/human-motion): 3D tracking and visualization of heead, face, eye, body and hand
+- **3D Analysis with BabylonJS** [[*Live*]](https://vladmandic.github.io/human-motion/src/index.html) [[*Details*]](https://github.com/vladmandic/human-motion): 3D tracking and visualization of head, face, eye, body and hand
 - **VRM Virtual Model Tracking with Three.JS** [[*Live*]](https://vladmandic.github.io/human-three-vrm/src/human-vrm.html) [[*Details*]](https://github.com/vladmandic/human-three-vrm): VR model with head, face, eye, body and hand tracking  
 - **VRM Virtual Model Tracking with BabylonJS** [[*Live*]](https://vladmandic.github.io/human-bjs-vrm/src/index.html) [[*Details*]](https://github.com/vladmandic/human-bjs-vrm): VR model with head, face, eye, body and hand tracking  
 
